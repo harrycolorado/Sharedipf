@@ -7,4 +7,6 @@ Function f1()
 	print exp(1)
 	// another change
 	print sqrt(2)
+	// change within the first branch
+	print "hello"
 End Function
